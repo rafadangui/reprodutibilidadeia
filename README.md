@@ -41,7 +41,7 @@ cd reprodutibilidadeia
 
 # 1. Criar e ativar um ambiente virtual
 python3 -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
+source .venv/bin/activate 
 
 # 2. Instalar as dependências
 pip install --upgrade pip
@@ -72,10 +72,6 @@ Os experimentos foram executados em um Apple M1 Pro (8 núcleos, 16 GB),
 com o paralelismo restrito aos 6 núcleos de desempenho. As versões exatas das
 bibliotecas estão registradas em `requirements-lock.txt`.
 
-## Citação
-
-Se este material for útil, cite o artigo correspondente. (Adicionar aqui a
-referência completa quando publicada.)
 
 ## Licença
 
