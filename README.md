@@ -25,7 +25,7 @@ de Holm para comparações múltiplas.
 ## Requisitos
 
 - Python 3.11 ou 3.12
-- macOS / Linux / Windows
+- macOS
 - Em macOS com Apple Silicon, instale a biblioteca OpenMP antes (necessária para
   LightGBM e XGBoost):
   ```bash
